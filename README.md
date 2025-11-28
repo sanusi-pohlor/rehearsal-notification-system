@@ -1,3 +1,9 @@
+# Demo
+https://rehearsal-notification-system.vercel.app/
+
+ระบบแจ้งซ้อม พัฒนาด้วย Nuxt Framework 
+
+
 # Nuxt Example
 
 Deploy your [Nuxt](https://nuxt.com) project to Vercel with zero configuration.
