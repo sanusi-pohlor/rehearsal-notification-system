@@ -1,7 +1,7 @@
+# ระบบแจ้งซ้อม พัฒนาด้วย Nuxt Framework 
+
 # Demo
 https://rehearsal-notification-system.vercel.app/
-
-ระบบแจ้งซ้อม พัฒนาด้วย Nuxt Framework 
 
 
 # Nuxt Example
